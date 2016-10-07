@@ -35,7 +35,7 @@ Setup
 4. Declare host/domain urlconfig tuple ''MULTIURL_CONFIG'': ::
 
     MULTIURL_CONFIG = {
-        'site.com': 'urls',
+        'site.com': 'urls_site',
         'blog.com': 'urls_blog',
     }
 

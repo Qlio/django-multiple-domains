@@ -18,7 +18,7 @@ setup(
     author_email='mr.unagaldai@gmail.com',
     description="Django middleware for serving single Django instance in multiple domains with different urls.",
     packages=[
-        'multidomain',
+        'multipledomain',
     ],
     include_package_data=True,
     long_description=long_description,
