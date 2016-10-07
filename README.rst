@@ -18,7 +18,7 @@ Setup
 
 1. Add 'multipledomain' to ''INSTALLED_APPS'': ::
 
-    INSTALLED_APPS += ( 'multidomain', )
+    INSTALLED_APPS += ( 'multipledomain', )
 
 2. Add 'multipledomain.middleware.MultipleDomainMiddleware' to ''MIDDLEWARE_CLASSES'': ::
 
